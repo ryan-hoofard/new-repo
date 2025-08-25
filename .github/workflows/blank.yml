@@ -25,4 +25,6 @@ jobs:
           cd ..
           ls
           pwd
+          cd actions-runner
+          ls
           
